@@ -35,15 +35,6 @@ Aqui estão alguns dos projetos que desenvolvi (edite com seus repositórios rea
 -->
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizwhirl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizwhirl&layout=compact&theme=dracula"/>
-</div>
-
----
-
 ### 📫 Contato
 
 <a href="[https://www.linkedin.com/in/luizbfn/]" target="_blank">
