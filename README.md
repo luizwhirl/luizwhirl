@@ -1,7 +1,4 @@
 # Bem vindo ao meu GitHub! 👋
-
-Sou um desenvolvedor apaixonado por criar soluções e aprender novas tecnologias. Aqui você encontra um pouco sobre meu trabalho e minhas ferramentas preferidas.
-
 ---
 
 ### 🛠️ Tech Stack
