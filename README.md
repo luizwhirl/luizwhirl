@@ -1,1 +1,1 @@
-[me](burning-fire.gif)
+![me](burning-fire.gif)
