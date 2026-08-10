@@ -1,7 +1,7 @@
 <h1 align="center">Oi!!!!</h1>
 
 <p align="center">
-  <em>Me chamo Luiz sou estudante e desenvolvedor, sempre testando ideias novas em projetos (as vezes pequenos, as vezes experimentais)</em>
+  <em>Me chamo Luiz. Sou estudante e desenvolvedor, estou quase sempre testando ideias novas em projetos (as vezes pequenos, as vezes experimentais)</em>
 </p>
 
 <!-- <p align="center">
