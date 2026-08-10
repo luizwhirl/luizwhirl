@@ -60,8 +60,7 @@
 ### 📌 Alguns projetos
 
 - [`computer-vision`](https://github.com/luizwhirl/computer-vision) — experimentos em visão computacional (Jupyter Notebook)
-- [`mechApe-knowledge-shell`](https://github.com/luizwhirl/mechApe-knowledge-shell) — projeto em Python
-- [`opengl-repo`](https://github.com/luizwhirl/opengl-repo) — gráficos 3D com OpenGL em C
+- [`mechApe-knowledge-shell`](https://github.com/luizwhirl/mechApe-knowledge-shell) — shells de conhecimento de algumas IAs
 - [`video-streaming-service`](https://github.com/luizwhirl/video-streaming-service) — refatoração de um serviço de streaming de vídeo em Python
 - [`terraplana-visual-music-performance`](https://github.com/luizwhirl/terraplana-visual-music-performance) — performance audiovisual em Python
 - [`Natural-Language-Processing`](https://github.com/luizwhirl/Natural-Language-Processing) — estudos de NLP
