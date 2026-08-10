@@ -4,11 +4,11 @@
   <em>Me chamo Luiz sou estudante e desenvolvedor, sempre testando ideias novas em projetos (as vezes pequenos, as vezes experimentais)</em>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/luizwhirl?tab=repositories">
     <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Reposit%C3%B3rios&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fluizwhirl&style=flat-square" alt="Repos" />
   </a>
-</p>
+</p> -->
 
 ---
 
@@ -69,10 +69,10 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luizwhirl&show_icons=true&theme=default&hide_title=false" alt="GitHub stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=luizwhirl" alt="GitHub streak" />
-</p>
+</p> -->
